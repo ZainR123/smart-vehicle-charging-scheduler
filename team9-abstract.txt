@@ -1,0 +1,12 @@
+Team number: 9
+Project title: <PROJECT TITLE HERE>
+Academic supervisor: Geert De Maere
+Company name: ATOS
+Industry supervisor(s): Andy Wallace, Mike Smith
+
+Abstract:
+Since 2015, there has been an increase of over 4 million new electric cars on the road and up to 7 million charging stations. 
+This has been an upward trend correlating with the rise in awareness of climate change, and its devastating effects on our world. 
+However, with this growth of electric vehicles and an abundance of charging points, national grids have been struggling to meet this greater demand. 
+To tackle this problem Team 9’s EV Scheduler attempts to solve this as an optimisation problem through smart allocation of vehicles based on environmental and energy factors. 
+
