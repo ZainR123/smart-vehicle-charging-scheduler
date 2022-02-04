@@ -1,0 +1,170 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html   lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.3.0, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <title>Schedule Vehicle</title>
+  <link rel="stylesheet" href="{% static 'assets/tether/tether.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-grid.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-reboot.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/dropdown/css/style.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.theme.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/datepicker/jquery.datetimepicker.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/socicon/css/styles.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/theme/css/style.css' %}">
+  <link rel="preload" as="style" href="{% static 'assets/mobirise/css/mbr-additional.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/mobirise/css/mbr-additional.css' %}" type="text/css">
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKi09d1iI_XBh9yNF2Gbea3d178J--xv0" type="text/javascript"></script>
+
+</head>
+<body>
+  
+  <section class="menu menu2 cid-sqnJr3dsEc" nonce="menu" id="menu2-9">
+    
+    <nav class="navbar navbar-dropdown navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                        <img src="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" alt="Mobirise" style="height: 8rem;">
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black text-primary display-7" href="{% url 'home' %}">Smart Scheduler</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4">
+                    {{ currentUser }}</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'home' %}">
+                    Home</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'changeCarModel' %}">
+                    Change Car</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'changePassword' %}">
+                    Change Password</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'login' %}">
+                    Schedule</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'logout' %}">
+                    Log Out</a></li></ul>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="form5 cid-sqnXEZLlXl" id="form5-a">
+    
+    
+    <div class="container">
+        <div class="mbr-section-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Request charging slot&nbsp;</strong></h3>
+        </div>
+    <br>
+        <div  id="map" style="width: 300px; height: 300px; margin-left: 400px" ></div>
+
+        <script type="text/javascript">
+            const locations = [
+                ['Charging Station 1', 52.95423, -1.18106, 1],
+                 ['Charging Station 2', 52.95261, -1.18268, 2]
+                ];
+
+            const map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: new google.maps.LatLng(52.95306, -1.18229),
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+                });
+
+            const infowindow = new google.maps.InfoWindow();
+
+            let marker, i;
+
+            for (i = 0; i < locations.length; i++) {
+            marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+            map: map
+            });
+
+            google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+            infowindow.setContent(locations[i][0]);
+            infowindow.open(map, marker);
+            }
+            })(marker, i));
+            }
+        </script>
+        <div class="row justify-content-center mt-4">
+            <div class="col-lg-8 mx-auto mbr-form">
+                <form action="" method="POST" class="mbr-form form-with-styler">
+                    {% csrf_token %}
+                    <div class="dragArea row">
+                        <div class="col-md col-sm-12 form-group" data-for="select">
+                            <select name="location" data-form-field="select" class="form-control" required>
+                                <option disabled ="true" selected>-- Select Charging Station --</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                            </select>
+                        </div>
+                        <div class="col-12 form-group align-center" data-for="text">
+                            <b> Select Preferred Charge Start Date And Time </b>
+                        </div>
+                        <div class="col-12 form-group" data-for="text">
+                            <input type="datetime-local" name="startDate" data-form-field="date" min="{{currentDate}}" max="{{finalDate}}" class="form-control" required>
+                        </div>
+                        <div class="col-12 form-group align-center" data-for="text">
+                            <b> Select Preferred Charge End Date And Time (MIN SLOT: 15 MINUTES / MAX SLOT: 6 HOURS)</b>
+                        </div>
+                        <div class="col-12 form-group" data-for="text">
+                            <input type="datetime-local" name="endDate" data-form-field="date" min="{{currentDate}}" max="{{finalDate}}" class="form-control" required>
+                        </div>
+                        <div class="col-12 form-group" data-for="text">
+                            <input type="number" name="currentCharge" placeholder="Current Charge Percentage" data-form-field="number" min="0" max="100" step="1" class="form-control" required>
+                        </div>
+                        <div class="col-12 form-group" data-for="text">
+                            <input type="number" name="prefCharge" placeholder="Preferred Charge Percentage" data-form-field="number" min="0" max="100" step="1" class="form-control" required>
+                        </div>
+                        {% for message in messages %}
+                        <br>
+					        <p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: red;" id="messages">{{message}}</p>
+				        {% endfor %}
+                        <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn"><button type="submit" class="btn btn-primary display-4">Schedule</button></div>
+                    </div>
+                </form>
+
+                <div class="mt-4">
+                    <form action="" method="POST" class="mbr-form form-with-styler">
+                        {% csrf_token %}
+                        <div class="mt-4">
+                        <div class="d-flex justify-content-center links">
+                        Unable to make your scheduled time? Free it up for others!
+                        </div>
+                        <div class="d-flex justify-content-center links">
+                        <input name="freeSlot" type="submit" value="Free Slot" class="btn btn-primary display-4">
+                        </div>
+                        </div>
+                    </form>
+				</div>
+            </div>
+        </div>
+        <br>
+        <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong> Current scheduled slot</strong></h3>
+        <p class="mbr-text mbr-fonts-style display-7"></p>
+        <p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: green;">Allocated Charge Station: {{ UserDatabase.Charging_Station }}</p>
+        <p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: green;">Allocated Charge Start Datetime: {{ UserDatabase.Scheduled_Datetime_Start }}</p>
+        <p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: green;">Allocated Charge End Datetime: {{ UserDatabase.Scheduled_Datetime_End }}</p>
+        <p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: green;">Max Charge Possible During Allocated Slot: {{ UserDatabase.Final_Charge }}%</p>
+    </div>
+</section>
+</body>
+</html>

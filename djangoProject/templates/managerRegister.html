@@ -1,0 +1,134 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html   lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" type="image/x-icon">
+
+
+  <title>Manager Registration</title>
+  <link rel="stylesheet" href="{% static 'assets/tether/tether.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-grid.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-reboot.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/dropdown/css/style.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.theme.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/datepicker/jquery.datetimepicker.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/socicon/css/styles.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/theme/css/style.css' %}">
+  <link rel="preload" as="style" href="{% static 'assets/mobirise/css/mbr-additional.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/mobirise/css/mbr-additional.css' %}" type="text/css">
+
+</head>
+<body>
+
+  <section class="menu menu2 cid-sqnJr3dsEc" nonce="menu" id="menu2-0">
+
+    <nav class="navbar navbar-dropdown navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                        <img src="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" style="height: 8rem;" alt="">
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black text-primary display-7" href="{% url 'home' %}">Smart Scheduler</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'home' %}">
+                    Home</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'login' %}">
+                    Schedule</a></li></ul>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="form6 cid-sqnLkqS7QN" id="form6-3">
+
+
+    <div class="container">
+        <div class="mbr-section-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Register Manager</strong></h3>
+
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-lg-8 mx-auto mbr-form">
+                <form method="POST" class="mbr-form form-with-styler mx-auto">
+                    {% csrf_token %}
+                    <div class="dragArea row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group" >
+                            <div class="input-group mb-2">
+                                <div class="input-group-append"></div>
+                                {{form.username}}
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group" >
+                            <div class="input-group mb-2">
+                                <div class="input-group-append"></div>
+                                {{form.email}}
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group" >
+                            <div class="input-group mb-2">
+							    <div class="input-group-append"></div>
+							    {{form.password1}}
+                            </div>
+						</div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+						    <div class="input-group mb-2">
+							    <div class="input-group-append" ></div>
+							    {{form.password2}}
+						    </div>
+                        </div>
+                        <div class="col-auto mbr-section-btn align-center">
+                            <input class="btn btn-primary display-4" type="submit" value="Register Account">
+                        </div>
+                    </div>
+                </form>
+                {{form.errors}}
+                {% for message in messages %}
+                    <br>
+					<p class="col-lg-12 col-md-12 col-sm-12 form-group align-center" style="color: red;" id="messages">{{message}}</p>
+				{% endfor %}
+				<div class="mt-4">
+					<div class="d-flex justify-content-center links">
+						Already have an account? <a href="{% url 'login' %}" class="ml-2">Login</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+						/* Because i didnt set placeholder values in forms.py they will be set here using vanilla Javascript
+		//We start indexing at one because CSRF_token is considered and input field
+		 */
+
+		//Query All input fields
+		var form_fields = document.getElementsByTagName('input')
+		form_fields[1].placeholder='Username';
+		form_fields[2].placeholder='Email';
+		form_fields[3].placeholder='Enter password';
+		form_fields[4].placeholder='Re-enter Password';
+
+
+		for (var field in form_fields){
+			form_fields[field].className += ' form-control'
+		}
+	</script>
+</section>
+
+</body>
+</html>

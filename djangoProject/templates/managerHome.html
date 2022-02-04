@@ -1,0 +1,98 @@
+{% load static %}
+{% load django_tables2 %}
+
+<!DOCTYPE html>
+<html   lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" type="image/x-icon">
+
+  <title>Manage</title>
+  <link rel="stylesheet" href="{% static 'assets/tether/tether.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-grid.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap-reboot.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/dropdown/css/style.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/formstyler/jquery.formstyler.theme.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/datepicker/jquery.datetimepicker.min.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/socicon/css/styles.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/theme/css/style.css' %}">
+  <link rel="preload" as="style" href="{% static 'assets/mobirise/css/mbr-additional.css' %}">
+  <link rel="stylesheet" href="{% static 'assets/mobirise/css/mbr-additional.css' %}" type="text/css">
+  
+</head>
+<body>
+  
+  <section class="menu menu2 cid-sqnJr3dsEc" nonce="menu" id="menu2-f">
+    
+    <nav class="navbar navbar-dropdown navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                        <img src="{% static 'assets/images/46ab23e7-b202-463a-9625-1833600a0167-200x200.png' %}" alt="Mobirise" style="height: 8rem;">
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black text-primary display-7" href="{% url 'home' %}">Smart Scheduler</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" >
+                    {{ currentUser }}</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'home' %}">
+                    Home</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'changePassword2' %}">
+                    Change Password</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'login' %}">
+                    Schedule</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="{% url 'logout' %}">
+                    Log Out</a></li></ul>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="content5 cid-sqnZQBFc6l" id="content5-g">
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                
+                <h3 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5 align-center">
+                    Charging station 1</h3>
+
+                <p class="mbr-text mbr-fonts-style display-7"></p>
+            </div>
+        </div>
+    </div>
+    <div style="text-align:left;">
+    {% render_table table %}
+    </div>
+</section>
+<section class="content5 cid-sqnZQBFc6l" id="content5-g">
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+
+                <h3 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5 align-center">
+                    Charging station 2</h3>
+
+                <p class="mbr-text mbr-fonts-style display-7"></p>
+            </div>
+        </div>
+    </div>
+    <div style="text-align:left;">
+    {% render_table table2 %}
+    </div>
+</section>
+</body>
+</html>
