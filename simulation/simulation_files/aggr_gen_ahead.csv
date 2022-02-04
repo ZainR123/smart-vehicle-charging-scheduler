@@ -1,0 +1,54 @@
+*
+*
+*PostDday Ahead Aggregated Generation (B1430) Data
+*
+*Document Type,Business Type,Process Type,Time Series ID,Quantity,Curve Type,Resolution,SettlementDate,SettelmentPeriod,ActiveFlag,Document ID,Document RevNum
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,19243,Sequential fixed size block,PT30M,2021-05-25,48,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21693,Sequential fixed size block,PT30M,2021-05-25,47,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,26267,Sequential fixed size block,PT30M,2021-05-25,46,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,28186,Sequential fixed size block,PT30M,2021-05-25,45,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,29157,Sequential fixed size block,PT30M,2021-05-25,44,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,29466,Sequential fixed size block,PT30M,2021-05-25,43,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,29795,Sequential fixed size block,PT30M,2021-05-25,42,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,30245,Sequential fixed size block,PT30M,2021-05-25,41,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,30871,Sequential fixed size block,PT30M,2021-05-25,40,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,31595,Sequential fixed size block,PT30M,2021-05-25,39,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,32487,Sequential fixed size block,PT30M,2021-05-25,38,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33201,Sequential fixed size block,PT30M,2021-05-25,37,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33692,Sequential fixed size block,PT30M,2021-05-25,36,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33986,Sequential fixed size block,PT30M,2021-05-25,35,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33801,Sequential fixed size block,PT30M,2021-05-25,34,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33186,Sequential fixed size block,PT30M,2021-05-25,33,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33318,Sequential fixed size block,PT30M,2021-05-25,32,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33689,Sequential fixed size block,PT30M,2021-05-25,31,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34057,Sequential fixed size block,PT30M,2021-05-25,30,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34461,Sequential fixed size block,PT30M,2021-05-25,29,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34765,Sequential fixed size block,PT30M,2021-05-25,28,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34862,Sequential fixed size block,PT30M,2021-05-25,27,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34866,Sequential fixed size block,PT30M,2021-05-25,26,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34903,Sequential fixed size block,PT30M,2021-05-25,25,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34937,Sequential fixed size block,PT30M,2021-05-25,24,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34775,Sequential fixed size block,PT30M,2021-05-25,23,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34624,Sequential fixed size block,PT30M,2021-05-25,22,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34445,Sequential fixed size block,PT30M,2021-05-25,21,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,34223,Sequential fixed size block,PT30M,2021-05-25,20,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,33663,Sequential fixed size block,PT30M,2021-05-25,19,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,32878,Sequential fixed size block,PT30M,2021-05-25,18,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,32029,Sequential fixed size block,PT30M,2021-05-25,17,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,30804,Sequential fixed size block,PT30M,2021-05-25,16,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,29372,Sequential fixed size block,PT30M,2021-05-25,15,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,25746,Sequential fixed size block,PT30M,2021-05-25,14,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,23391,Sequential fixed size block,PT30M,2021-05-25,13,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,22333,Sequential fixed size block,PT30M,2021-05-25,12,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,22073,Sequential fixed size block,PT30M,2021-05-25,11,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21994,Sequential fixed size block,PT30M,2021-05-25,10,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21925,Sequential fixed size block,PT30M,2021-05-25,9,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21798,Sequential fixed size block,PT30M,2021-05-25,8,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21586,Sequential fixed size block,PT30M,2021-05-25,7,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21393,Sequential fixed size block,PT30M,2021-05-25,6,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,21098,Sequential fixed size block,PT30M,2021-05-25,5,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,20792,Sequential fixed size block,PT30M,2021-05-25,4,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239171,20500,Sequential fixed size block,PT30M,2021-05-25,3,Y,NGET-EMFIP-DAG-06238851,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239170,21178,Sequential fixed size block,PT30M,2021-05-25,2,Y,NGET-EMFIP-DAG-06238850,1
+Generation forecast,Production,Day Ahead,NGET-EMFIP-DAG-TS-06239170,20867,Sequential fixed size block,PT30M,2021-05-25,1,Y,NGET-EMFIP-DAG-06238850,1
+<EOF>

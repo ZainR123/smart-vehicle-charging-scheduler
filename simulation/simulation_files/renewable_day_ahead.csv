@@ -1,0 +1,330 @@
+*
+*
+*Day Ahead Generation forecasts For Wind And Solar Service (B1440) Data
+*
+*Time Series ID,Business Type,Power System Resource  Type,Settlement Date,Process Type,Settlement Period,Quantity,Document Type,Curve Type,Resolution,Active Flag,Document ID,Document RevNum
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,48,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,48,1292.001,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,48,806.005,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,47,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,47,1292.001,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,47,806.005,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,46,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,46,1302.172,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,46,841.394,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,45,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,45,1302.172,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,45,841.394,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,44,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,44,1345.098,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,44,904.901,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,43,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,43,1345.098,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,43,904.901,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,42,53,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,42,1422.274,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,42,1056.198,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,41,245,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,41,1422.274,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,41,1056.198,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,40,552,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,40,1580.128,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,40,1295.879,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,39,943,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,39,1580.128,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,39,1295.879,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,38,1403,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,38,1788.722,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,38,1502.665,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,37,1920,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,37,1788.722,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,37,1502.665,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,36,2463,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,36,2069.897,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,36,1662.119,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,35,3000,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,35,2069.897,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,35,1662.119,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,34,3522,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,34,2204.199,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,34,1731.723,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,33,4026,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,33,2204.199,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,33,1731.723,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,32,4514,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,32,2363.078,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,32,1792.995,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,31,4981,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,31,2363.078,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,31,1792.995,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,30,5391,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,30,2486.919,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,30,1805.288,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,29,5705,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,29,2486.919,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,29,1805.288,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,28,5938,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,28,2671.279,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,28,1785.379,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,27,6114,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,27,2671.279,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,27,1785.379,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,26,6212,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,26,2798.713,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,26,1800.224,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,25,6198,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,25,2798.713,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,25,1800.224,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,24,6058,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,24,2936.221,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,24,1779.336,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,23,5784,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,23,2936.221,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,23,1779.336,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,22,5413,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,22,3079.967,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,22,1722.91,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,21,4989,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,21,3079.967,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,21,1722.91,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,20,4499,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,20,3041.884,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,20,1646.435,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,19,3926,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,19,3041.884,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,19,1646.435,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,18,3314,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,18,3008.219,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,18,1583.51,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,17,2711,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,17,3008.219,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,17,1583.51,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,16,2128,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,16,2991.87,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,16,1586.182,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,15,1572,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,15,2991.87,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,15,1586.182,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,14,1066,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,14,2782.033,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,14,1571.928,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,13,637,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,13,2782.033,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,13,1571.928,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,12,309,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,12,2562.855,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,12,1564.264,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,11,101,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,11,2562.855,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,11,1564.264,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,10,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,10,2386.573,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,10,1568.715,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,9,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,9,2386.573,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,9,1568.715,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,8,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,8,2348.217,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,8,1550.215,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,7,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,7,2348.217,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,7,1550.215,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,6,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,6,2336.501,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,6,1515.049,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,5,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,5,2336.501,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,5,1515.049,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,4,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,4,2416.545,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,4,1520.422,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236557,Solar generation,"Solar",2021-05-26,Day Ahead,3,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236555,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,3,2416.545,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236556,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,3,1520.422,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239787,1
+NGET-EMFIP-DGWS-TS-06236554,Solar generation,"Solar",2021-05-26,Day Ahead,2,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWS-TS-06236552,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,2,3508.518,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWS-TS-06236553,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,2,1708.632,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWS-TS-06236554,Solar generation,"Solar",2021-05-26,Day Ahead,1,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWS-TS-06236552,Wind generation,"Wind Offshore",2021-05-26,Day Ahead,1,3508.518,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWS-TS-06236553,Wind generation,"Wind Onshore",2021-05-26,Day Ahead,1,1708.632,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWS-06239786,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,48,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,48,1630.488,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,48,860.169,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,47,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,47,1630.488,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,47,860.169,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,46,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,46,1642.143,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,46,917.833,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,45,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,45,1642.143,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,45,917.833,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,44,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,44,1669.388,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,44,993.451,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,43,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,43,1669.388,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,43,993.451,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,42,64,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,42,1757.01,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,42,1169.963,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,41,290,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,41,1757.01,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,41,1169.963,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,40,645,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,40,1950.686,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,40,1440.324,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,39,1087,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,39,1950.686,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,39,1440.324,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,38,1587,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,38,2239.458,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,38,1658.662,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,37,2116,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,37,2239.458,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,37,1658.662,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,36,2655,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,36,2464.06,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,36,1805.202,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,35,3188,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,35,2464.06,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,35,1805.202,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,34,3690,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,34,2651.012,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,34,1915.76,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,33,4139,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,33,2651.012,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,33,1915.76,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,32,4527,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,32,2722.298,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,32,1987.132,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,31,4839,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,31,2722.298,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,31,1987.132,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,30,5039,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,30,2695.316,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,30,1997.141,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,29,5114,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,29,2695.316,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,29,1997.141,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,28,5184,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,28,2721.609,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,28,1982.983,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,27,5349,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,27,2721.609,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,27,1982.983,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,26,5503,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,26,2870.526,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,26,2030.591,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,25,5523,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,25,2870.526,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,25,2030.591,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,24,5435,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,24,2976.052,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,24,1987.059,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,23,5284,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,23,2976.052,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,23,1987.059,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,22,5063,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,22,2942.263,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,22,1920.114,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,21,4752,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,21,2942.263,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,21,1920.114,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,20,4329,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,20,2885.305,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,20,1841.693,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,19,3790,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,19,2885.305,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,19,1841.693,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,18,3199,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,18,2809.795,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,18,1721.086,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236035,Solar generation,"Solar",2021-05-26,Intraday,17,2622,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236033,Wind generation,"Wind Offshore",2021-05-26,Intraday,17,2809.795,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236034,Wind generation,"Wind Onshore",2021-05-26,Intraday,17,1721.086,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038433,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236032,Solar generation,"Solar",2021-05-26,Intraday,2,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236030,Wind generation,"Wind Offshore",2021-05-26,Intraday,2,2901.794,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236031,Wind generation,"Wind Onshore",2021-05-26,Intraday,2,1504.675,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236032,Solar generation,"Solar",2021-05-26,Intraday,1,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236030,Wind generation,"Wind Offshore",2021-05-26,Intraday,1,2901.794,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSINTRADAY-TS-06236031,Wind generation,"Wind Onshore",2021-05-26,Intraday,1,1504.675,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSINTRADAY-06038432,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,48,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,48,1812.71,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,48,905.499,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,47,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,47,1812.71,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,47,905.499,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,46,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,46,1781.333,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,46,968.644,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,45,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,45,1781.333,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,45,968.644,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,44,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,44,1740.576,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,44,1039.706,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,43,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,43,1740.576,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,43,1039.706,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,42,71,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,42,1812.907,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,42,1234.712,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,41,315,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,41,1812.907,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,41,1234.712,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,40,691,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,40,1986.118,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,40,1526.579,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,39,1142,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,39,1986.118,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,39,1526.579,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,38,1615,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,38,2246.926,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,38,1772.234,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,37,2066,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,37,2246.926,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,37,1772.234,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,36,2514,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,36,2536.736,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,36,1898.117,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,35,2980,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,35,2536.736,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,35,1898.117,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,34,3432,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,34,2790.427,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,34,2006.771,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,33,3835,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,33,2790.427,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,33,2006.771,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,32,4172,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,32,2947.449,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,32,2045.499,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,31,4445,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,31,2947.449,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,31,2045.499,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,30,4693,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,30,2987.274,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,30,2051.136,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,29,4956,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,29,2987.274,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,29,2051.136,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,28,5236,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,28,2999.474,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,28,2061.332,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,27,5512,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,27,2999.474,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,27,2061.332,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,26,5718,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,26,3051.805,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,26,2087.719,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235449,Solar generation,"Solar",2021-05-26,Current,25,5788,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235447,Wind generation,"Wind Offshore",2021-05-26,Current,25,3051.805,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235448,Wind generation,"Wind Onshore",2021-05-26,Current,25,2087.719,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038227,1
+NGET-EMFIP-DGWSCURRENT-TS-06235446,Solar generation,"Solar",2021-05-26,Current,2,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+NGET-EMFIP-DGWSCURRENT-TS-06235444,Wind generation,"Wind Offshore",2021-05-26,Current,2,2762.437,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+NGET-EMFIP-DGWSCURRENT-TS-06235445,Wind generation,"Wind Onshore",2021-05-26,Current,2,1516.231,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+NGET-EMFIP-DGWSCURRENT-TS-06235446,Solar generation,"Solar",2021-05-26,Current,1,0,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+NGET-EMFIP-DGWSCURRENT-TS-06235444,Wind generation,"Wind Offshore",2021-05-26,Current,1,2762.437,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+NGET-EMFIP-DGWSCURRENT-TS-06235445,Wind generation,"Wind Onshore",2021-05-26,Current,1,1516.231,Wind and solar forecast,Sequential fixed size block,PT30M,Y,NGET-EMFIP-DGWSCURRENT-06038226,1
+<EOF>
